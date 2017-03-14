@@ -1,0 +1,3 @@
+results/
+
+#this is telling git to ignore everythign that shows up in the results directory.
